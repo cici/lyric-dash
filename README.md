@@ -13,3 +13,11 @@
 [Multi Page Layout](https://dash.plot.ly/urls)
 
 [Graphing Layout](https://dash.plot.ly/getting-started)
+
+Libraries Used (install with pip)
+setuptools
+dash
+dash-renderer
+pandas
+scikit-learn
+nltk

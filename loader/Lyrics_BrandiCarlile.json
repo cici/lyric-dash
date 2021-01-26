@@ -1,0 +1,3889 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/156698",
+ "description": {
+  "plain": "Brandi Carlile (born June 1, 1981) is an award-winning singer-songwriter, whose music ranges from Americana, to country, pop and folk-rock. Known for her raw, powerful vocals and intense stage prescence, she initially gained attention with her sophomore album The Story in 2007. Over a decade later, she earned six Grammy nominations for her 2018 album By The Way, I Forgive You, the highest-charting album of her career that made her the most-nominated woman that year.\n\nIn 2019, Carlile had a busier year than ever, having co-founded the female country supergroup The Highwomen, and co-producing country legend Tanya Tucker\u2019s comeback album While I\u2019m Livin'.\n\nIn the early 2000s, she met twins Phil and Tim Hanseroth, who became her long-time bandmates and songwriting collaborators. According to an interview in No Depression, the three consider themselves a band despite Carlile\u2019s name being on the endeavor, and they equally share their publishing equity, no matter who wrote any particular song.\n\nShe has worked with acclaimed producers from T-Bone Burnett to Rick Rubin, country legends like the late John Prine, and pop crossovers like Sam Smith. She also hosted her own music festival, \u201cGirls Just Wanna Weekend\u201d in 2018."
+ },
+ "facebook_name": "brandicarlile",
+ "followers_count": 35,
+ "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+ "id": 156698,
+ "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Brandi Carlile",
+ "translation_artist": false,
+ "twitter_name": "brandicarlile",
+ "url": "https://genius.com/artists/Brandi-carlile",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5445856,
+  "annotator_login": "achangeofheart",
+  "api_path": "/referents/7011847",
+  "classification": "accepted",
+  "fragment": "Brandi Carlile",
+  "id": 7011847,
+  "is_description": true,
+  "path": "/7011847/Brandi-carlile/Brandi-carlile",
+  "range": {
+   "content": "Brandi Carlile"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7011847/Brandi-carlile/Brandi-carlile",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/156698",
+   "context": null,
+   "id": 156698,
+   "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+   "link_title": "Brandi Carlile",
+   "title": "Brandi Carlile",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Brandi-carlile"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7011847",
+    "body": {
+     "plain": "Brandi Carlile (born June 1, 1981) is an award-winning singer-songwriter, whose music ranges from Americana, to country, pop and folk-rock. Known for her raw, powerful vocals and intense stage prescence, she initially gained attention with her sophomore album The Story in 2007. Over a decade later, she earned six Grammy nominations for her 2018 album By The Way, I Forgive You, the highest-charting album of her career that made her the most-nominated woman that year.\n\nIn 2019, Carlile had a busier year than ever, having co-founded the female country supergroup The Highwomen, and co-producing country legend Tanya Tucker\u2019s comeback album While I\u2019m Livin'.\n\nIn the early 2000s, she met twins Phil and Tim Hanseroth, who became her long-time bandmates and songwriting collaborators. According to an interview in No Depression, the three consider themselves a band despite Carlile\u2019s name being on the endeavor, and they equally share their publishing equity, no matter who wrote any particular song.\n\nShe has worked with acclaimed producers from T-Bone Burnett to Rick Rubin, country legends like the late John Prine, and pop crossovers like Sam Smith. She also hosted her own music festival, \u201cGirls Just Wanna Weekend\u201d in 2018."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7011847,
+    "pinned": false,
+    "share_url": "https://genius.com/7011847",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7011847/Brandi-carlile/Brandi-carlile",
+    "verified": false,
+    "votes_total": 6,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.6855670103092784,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3289021",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/bb76fc06b56f0ac4cced6f99a887e4cf",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/bb76fc06b56f0ac4cced6f99a887e4cf",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/bb76fc06b56f0ac4cced6f99a887e4cf",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/bb76fc06b56f0ac4cced6f99a887e4cf",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/b1fbb61e41c23fec50b937c57882bf29.500x367x10.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 3289021,
+       "iq": 68761,
+       "login": "slightly_senile",
+       "name": "Slightly_senile",
+       "role_for_display": "editor",
+       "url": "https://genius.com/slightly_senile",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.26288659793814434,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3872577",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8d8a3136844ba32b8ce25376346774a8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8d8a3136844ba32b8ce25376346774a8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8d8a3136844ba32b8ce25376346774a8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8d8a3136844ba32b8ce25376346774a8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/8d8a3136844ba32b8ce25376346774a8",
+       "human_readable_role_for_display": "Editor",
+       "id": 3872577,
+       "iq": 6157,
+       "login": "akc76",
+       "name": "akc76",
+       "role_for_display": "editor",
+       "url": "https://genius.com/akc76",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.04639175257731959,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5445856",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5975284fd923c91f4421d5ceaca93ab4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5975284fd923c91f4421d5ceaca93ab4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5975284fd923c91f4421d5ceaca93ab4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5975284fd923c91f4421d5ceaca93ab4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/92wbjg4zoa",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5445856,
+       "iq": 2033,
+       "login": "achangeofheart",
+       "name": "achangeofheart",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/achangeofheart",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005154639175257731,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4292238",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/16c3fc5be1f171227d629c26b986c4f1",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/16c3fc5be1f171227d629c26b986c4f1",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/16c3fc5be1f171227d629c26b986c4f1",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/16c3fc5be1f171227d629c26b986c4f1",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/16c3fc5be1f171227d629c26b986c4f1",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4292238,
+       "iq": 7540,
+       "login": "pizzanugget",
+       "name": "pizzanugget",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/pizzanugget",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/3317396",
+   "apple_music_id": "1310052897",
+   "apple_music_player_url": "https://genius.com/songs/3317396/apple_music_player",
+   "description": {
+    "plain": "\u201cThe Joke\u201d is the lead single off of Brandi Carlile\u2019s sixth studio album, By the Way, I Forgive You. Carlile returned to work with producer Dave Cobb, who produced one of her most notable songs, \u201cThe Story\u201d, in 2006. Carlile wanted to be as vocally ambitious on this track as she had been with \u201cThe Story\u201d. Carlile wrote this song to reject today\u2019s sociopolitical climate since the 2016 US presidential election, telling NPR that \u201cthere are so many people feeling misrepresented. So many people feeling unloved. The song is just for people that feel under-represented, unloved or illegal.\u201d\n\n\n\nCarlile performing \u201cThe Joke\u201d live in November."
+   },
+   "embed_content": "<div id='rg_embed_link_3317396' class='rg_embed_link' data-song-id='3317396'>Read <a href='https://genius.com/Brandi-carlile-the-joke-lyrics'>\u201cThe Joke\u201d by Brandi\u00a0Carlile</a> on Genius</div> <script crossorigin src='//genius.com/songs/3317396/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "The Joke by\u00a0Brandi\u00a0Carlile",
+   "header_image_thumbnail_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+   "id": 3317396,
+   "lyrics_owner_id": 4355603,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Brandi-carlile-the-joke-lyrics",
+   "pyongs_count": 7,
+   "recording_location": null,
+   "release_date": "2017-11-13",
+   "release_date_for_display": "November 13, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 21,
+    "iq_earners": 21,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "concurrents": 2,
+    "hot": false,
+    "pageviews": 92096
+   },
+   "title": "The Joke",
+   "title_with_featured": "The Joke",
+   "url": "https://genius.com/Brandi-carlile-the-joke-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/380877",
+    "cover_art_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+    "full_title": "By the Way, I Forgive You by Brandi Carlile",
+    "id": 380877,
+    "name": "By the Way, I Forgive You",
+    "url": "https://genius.com/albums/Brandi-carlile/By-the-way-i-forgive-you",
+    "artist": {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/988745",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 988745,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lyman",
+       "url": "https://genius.com/artists/Pete-lyman"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/460724",
+       "header_image_url": "https://images.genius.com/37d4b917c422c11e1f456ee5f95bf3df.636x421x1.jpg",
+       "id": 460724,
+       "image_url": "https://images.genius.com/dbe279fd0acf607812ceae06e4f01567.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Elmhirst",
+       "url": "https://genius.com/artists/Tom-elmhirst"
+      },
+      {
+       "api_path": "/artists/664820",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 664820,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandon Bost",
+       "url": "https://genius.com/artists/Brandon-bost"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      },
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    },
+    {
+     "label": "Violin",
+     "artists": [
+      {
+       "api_path": "/artists/135928",
+       "header_image_url": "https://images.genius.com/88c26e6580c1d6642c88117837171036.262x262x1.png",
+       "id": 135928,
+       "image_url": "https://images.genius.com/88c26e6580c1d6642c88117837171036.262x262x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Angell",
+       "url": "https://genius.com/artists/David-angell"
+      },
+      {
+       "api_path": "/artists/1171593",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1171593,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Alicia Enstrom",
+       "url": "https://genius.com/artists/Alicia-enstrom"
+      }
+     ]
+    },
+    {
+     "label": "Viola",
+     "artists": [
+      {
+       "api_path": "/artists/680791",
+       "header_image_url": "https://images.genius.com/8d4b6145189e693b300b027115eab072.246x246x1.png",
+       "id": 680791,
+       "image_url": "https://images.genius.com/8d4b6145189e693b300b027115eab072.246x246x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kristin Wilkinson",
+       "url": "https://genius.com/artists/Kristin-wilkinson"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      }
+     ]
+    },
+    {
+     "label": "Organ",
+     "artists": [
+      {
+       "api_path": "/artists/150568",
+       "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "id": 150568,
+       "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Shooter Jennings",
+       "url": "https://genius.com/artists/Shooter-jennings"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/150568",
+       "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "id": 150568,
+       "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Shooter Jennings",
+       "url": "https://genius.com/artists/Shooter-jennings"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1132911",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1132911,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gena Johnson",
+       "url": "https://genius.com/artists/Gena-johnson"
+      },
+      {
+       "api_path": "/artists/1573589",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1573589,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eddie Spear",
+       "url": "https://genius.com/artists/Eddie-spear"
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      }
+     ]
+    },
+    {
+     "label": "Cello",
+     "artists": [
+      {
+       "api_path": "/artists/1411338",
+       "header_image_url": "https://images.genius.com/bd69dafc81975bdba7ad2744d36352b5.800x1000x1.jpg",
+       "id": 1411338,
+       "image_url": "https://images.genius.com/e2bb5c60bce78c9d6be9fc7555a405a4.463x463x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Neumann",
+       "url": "https://genius.com/artists/Josh-neumann"
+      },
+      {
+       "api_path": "/artists/1028832",
+       "header_image_url": "https://images.genius.com/e47c5644aec01cfce82b7a72a4971fe0.206x206x1.png",
+       "id": 1028832,
+       "image_url": "https://images.genius.com/e47c5644aec01cfce82b7a72a4971fe0.206x206x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Carole Rabinowitz",
+       "url": "https://genius.com/artists/Carole-rabinowitz"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/96082",
+       "header_image_url": "https://images.genius.com/3f9c5c405c1d4e502e86f879e7574cef.1000x397x1.jpg",
+       "id": 96082,
+       "image_url": "https://images.genius.com/ba087ec9521763c4053837734c0cf4c8.528x528x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Elektra Records",
+       "url": "https://genius.com/artists/Elektra-records"
+      },
+      {
+       "api_path": "/artists/1717065",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1717065,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Low Country Sound",
+       "url": "https://genius.com/artists/Low-country-sound"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4332408,
+    "annotator_login": "fucksvetlana",
+    "api_path": "/referents/13049858",
+    "classification": "accepted",
+    "fragment": "The Joke",
+    "id": 13049858,
+    "is_description": true,
+    "path": "/13049858/Brandi-carlile-the-joke/The-joke",
+    "range": {
+     "content": "The Joke"
+    },
+    "song_id": 3317396,
+    "url": "https://genius.com/13049858/Brandi-carlile-the-joke/The-joke",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3317396",
+     "client_timestamps": {
+      "updated_by_human_at": 1581882522,
+      "lyrics_updated_at": 1583462778
+     },
+     "context": "Brandi Carlile",
+     "id": 3317396,
+     "image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+     "link_title": "The Joke by\u00a0Brandi\u00a0Carlile",
+     "title": "The Joke",
+     "type": "Song",
+     "url": "https://genius.com/Brandi-carlile-the-joke-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13049858",
+      "body": {
+       "plain": "\u201cThe Joke\u201d is the lead single off of Brandi Carlile\u2019s sixth studio album, By the Way, I Forgive You. Carlile returned to work with producer Dave Cobb, who produced one of her most notable songs, \u201cThe Story\u201d, in 2006. Carlile wanted to be as vocally ambitious on this track as she had been with \u201cThe Story\u201d. Carlile wrote this song to reject today\u2019s sociopolitical climate since the 2016 US presidential election, telling NPR that \u201cthere are so many people feeling misrepresented. So many people feeling unloved. The song is just for people that feel under-represented, unloved or illegal.\u201d\n\n\n\nCarlile performing \u201cThe Joke\u201d live in November."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 13049858,
+      "pinned": false,
+      "share_url": "https://genius.com/13049858",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/13049858/Brandi-carlile-the-joke/The-joke",
+      "verified": false,
+      "votes_total": 29,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9851851851851852,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4332408",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/33e56e2220ccda2c92eef05021fa5680",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/33e56e2220ccda2c92eef05021fa5680",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/33e56e2220ccda2c92eef05021fa5680",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/33e56e2220ccda2c92eef05021fa5680",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/33e56e2220ccda2c92eef05021fa5680",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4332408,
+         "iq": 356,
+         "login": "fucksvetlana",
+         "name": "fucksvetlana",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/fucksvetlana",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.014814814814814814,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4054549",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/icr1vewesg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/icr1vewesg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/icr1vewesg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/icr1vewesg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5y5cfuq0idv",
+         "human_readable_role_for_display": "Editor",
+         "id": 4054549,
+         "iq": 21763,
+         "login": "TheSuddenHeir",
+         "name": "TheSuddenHeir",
+         "role_for_display": "editor",
+         "url": "https://genius.com/TheSuddenHeir",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=5r6A2NexF88"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/156698",
+    "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+    "id": 156698,
+    "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Brandi Carlile",
+    "url": "https://genius.com/artists/Brandi-carlile"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/150568",
+     "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+     "id": 150568,
+     "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shooter Jennings",
+     "url": "https://genius.com/artists/Shooter-jennings"
+    },
+    {
+     "api_path": "/artists/534034",
+     "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+     "id": 534034,
+     "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Cobb",
+     "url": "https://genius.com/artists/Dave-cobb"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 7,
+       "api_path": "/songs/4346750",
+       "full_title": "Takes A Lot Less by\u00a0Javier\u00a0Brenan",
+       "header_image_thumbnail_url": "https://images.genius.com/107fad33a55e7374408ce5bf090ed762.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/107fad33a55e7374408ce5bf090ed762.1000x1000x1.jpg",
+       "id": 4346750,
+       "lyrics_owner_id": 8015833,
+       "lyrics_state": "complete",
+       "path": "/Javier-brenan-takes-a-lot-less-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/107fad33a55e7374408ce5bf090ed762.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/107fad33a55e7374408ce5bf090ed762.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 7,
+        "hot": false
+       },
+       "title": "Takes A Lot Less",
+       "title_with_featured": "Takes A Lot Less",
+       "url": "https://genius.com/Javier-brenan-takes-a-lot-less-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1742648",
+        "header_image_url": "https://images.genius.com/8c64350e617911820928f17b9b9d9858.1000x962x1.jpg",
+        "id": 1742648,
+        "image_url": "https://images.genius.com/3edcead9978f744402d8c352376a2652.448x448x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Javier Brenan",
+        "url": "https://genius.com/artists/Javier-brenan"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4320480",
+       "full_title": "The Joke by\u00a0Adara",
+       "header_image_thumbnail_url": "https://images.genius.com/17f0aae73afa1788ba42536999e9cba9.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/17f0aae73afa1788ba42536999e9cba9.1000x563x1.jpg",
+       "id": 4320480,
+       "lyrics_owner_id": 7429877,
+       "lyrics_state": "complete",
+       "path": "/Adara-the-joke-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/17f0aae73afa1788ba42536999e9cba9.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/17f0aae73afa1788ba42536999e9cba9.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Joke",
+       "title_with_featured": "The Joke",
+       "url": "https://genius.com/Adara-the-joke-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/324416",
+        "header_image_url": "https://images.genius.com/c0c3323e1f90272bc581306c94f92dee.1000x668x1.jpg",
+        "id": 324416,
+        "image_url": "https://images.genius.com/888ad64c86b9d0a80d7c4a21257cf667.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Adara",
+        "url": "https://genius.com/artists/Adara",
+        "iq": 309
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/681557",
+     "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+     "id": 681557,
+     "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Hanseroth",
+     "url": "https://genius.com/artists/Tim-hanseroth"
+    },
+    {
+     "api_path": "/artists/991409",
+     "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "id": 991409,
+     "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Hanseroth",
+     "url": "https://genius.com/artists/Phil-hanseroth"
+    },
+    {
+     "api_path": "/artists/534034",
+     "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+     "id": 534034,
+     "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Cobb",
+     "url": "https://genius.com/artists/Dave-cobb"
+    },
+    {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   ],
+   "lyrics": "[Verse 1]\nYou're feeling nervous, aren't you, boy?\nWith your quiet voice and impeccable style\nDon't ever let them steal your joy\nAnd your gentle ways, to keep 'em from running wild\nThey can kick dirt in your face\nDress you down, and tell you that your place\nIs in the middle, when they hate the way you shine\nI see you tugging on your shirt\nTrying to hide inside of it and hide how much it hurts\n\n[Chorus]\nLet 'em laugh while they can\nLet 'em spin, let 'em scatter in the wind\nI have been to the movies, I've seen how it ends\nAnd the joke's on them\n\n[Verse 2]\nYou get discouraged, don't you, girl?\nIt's your brother's world for a while longer\nYou gotta dance with the devil on a river\nTo beat the stream\nCall it living the dream, call it kicking the ladder\nThey come to kick dirt in your face\nTo call you weak and then displace you\nAfter carrying your baby on your back across the desert\nI saw your eyes behind your hair\nAnd you're looking tired, but you don't look scared\n\n[Chorus]\nLet 'em laugh while they can\nLet 'em spin, let 'em scatter in the wind\nI have been to the movies, I've seen how it ends\nAnd the joke's on them\nLet 'em laugh while they can\nLet 'em spin, let 'em scatter in the wind\nI have been to the movies, I've seen how it ends\nAnd the joke's on them"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/386394",
+   "apple_music_id": "250112772",
+   "apple_music_player_url": "https://genius.com/songs/386394/apple_music_player",
+   "description": {
+    "plain": "This song was the title track of Carlile\u2019s second album, released in April 2007. It was written by Carlile\u2019s bandmate Phil Hanseroth. A cover by actress Sara Ramirez was used on the TV show, Grey\u2019s Anatomy,boosting the song\u2019s popularity."
+   },
+   "embed_content": "<div id='rg_embed_link_386394' class='rg_embed_link' data-song-id='386394'>Read <a href='https://genius.com/Brandi-carlile-the-story-lyrics'>\u201cThe Story\u201d by Brandi\u00a0Carlile</a> on Genius</div> <script crossorigin src='//genius.com/songs/386394/embed.js'></script>",
+   "fact_track": {
+    "provider": "spotify",
+    "external_url": "https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym",
+    "button_text": "Behind the Lyrics in Spotify",
+    "help_link_text": "What's a Fact Track?",
+    "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+   },
+   "featured_video": false,
+   "full_title": "The Story by\u00a0Brandi\u00a0Carlile",
+   "header_image_thumbnail_url": "https://images.genius.com/3dcb9118d25ab7799503fe66c1cc40cd.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3dcb9118d25ab7799503fe66c1cc40cd.400x400x1.jpg",
+   "id": 386394,
+   "lyrics_owner_id": 397894,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Brandi-carlile-the-story-lyrics",
+   "pyongs_count": 9,
+   "recording_location": null,
+   "release_date": "2007-04-03",
+   "release_date_for_display": "April 3, 2007",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3dcb9118d25ab7799503fe66c1cc40cd.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3dcb9118d25ab7799503fe66c1cc40cd.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 17,
+    "iq_earners": 17,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 45820
+   },
+   "title": "The Story",
+   "title_with_featured": "The Story",
+   "url": "https://genius.com/Brandi-carlile-the-story-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "watch_fact_track",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/89187",
+    "cover_art_url": "https://images.genius.com/3dcb9118d25ab7799503fe66c1cc40cd.400x400x1.jpg",
+    "full_title": "The Story by Brandi Carlile",
+    "id": 89187,
+    "name": "The Story",
+    "url": "https://genius.com/albums/Brandi-carlile/The-story",
+    "artist": {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Cello",
+     "artists": [
+      {
+       "api_path": "/artists/1411338",
+       "header_image_url": "https://images.genius.com/bd69dafc81975bdba7ad2744d36352b5.800x1000x1.jpg",
+       "id": 1411338,
+       "image_url": "https://images.genius.com/e2bb5c60bce78c9d6be9fc7555a405a4.463x463x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Neumann",
+       "url": "https://genius.com/artists/Josh-neumann"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/648187",
+       "header_image_url": "https://images.genius.com/d289f36620a1dc0c13558f71a624037c.503x503x1.png",
+       "id": 648187,
+       "image_url": "https://images.genius.com/d289f36620a1dc0c13558f71a624037c.503x503x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matt Chamberlain",
+       "url": "https://genius.com/artists/Matt-chamberlain"
+      }
+     ]
+    },
+    {
+     "label": "Backing Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      },
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/658527",
+       "header_image_url": "https://images.genius.com/50e4b3162c7f6e67aedf33b1c27781a5.720x720x1.jpg",
+       "id": 658527,
+       "image_url": "https://images.genius.com/50e4b3162c7f6e67aedf33b1c27781a5.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gavin Lurssen",
+       "url": "https://genius.com/artists/Gavin-lurssen"
+      }
+     ]
+    },
+    {
+     "label": "Mix",
+     "artists": [
+      {
+       "api_path": "/artists/656575",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 656575,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mike Piersante",
+       "url": "https://genius.com/artists/Mike-piersante"
+      }
+     ]
+    },
+    {
+     "label": "Recorded By",
+     "artists": [
+      {
+       "api_path": "/artists/656575",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 656575,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mike Piersante",
+       "url": "https://genius.com/artists/Mike-piersante"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      },
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 127
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5445856,
+    "annotator_login": "achangeofheart",
+    "api_path": "/referents/3867422",
+    "classification": "accepted",
+    "fragment": "The Story",
+    "id": 3867422,
+    "is_description": true,
+    "path": "/3867422/Brandi-carlile-the-story/The-story",
+    "range": {
+     "content": "The Story"
+    },
+    "song_id": 386394,
+    "url": "https://genius.com/3867422/Brandi-carlile-the-story/The-story",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/386394",
+     "client_timestamps": {
+      "updated_by_human_at": 1586976460,
+      "lyrics_updated_at": 1586976459
+     },
+     "context": "Brandi Carlile",
+     "id": 386394,
+     "image_url": "https://images.genius.com/3dcb9118d25ab7799503fe66c1cc40cd.400x400x1.jpg",
+     "link_title": "The Story by\u00a0Brandi\u00a0Carlile",
+     "title": "The Story",
+     "type": "Song",
+     "url": "https://genius.com/Brandi-carlile-the-story-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3867422",
+      "body": {
+       "plain": "This song was the title track of Carlile\u2019s second album, released in April 2007. It was written by Carlile\u2019s bandmate Phil Hanseroth. A cover by actress Sara Ramirez was used on the TV show, Grey\u2019s Anatomy,boosting the song\u2019s popularity."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3867422,
+      "pinned": false,
+      "share_url": "https://genius.com/3867422",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3867422/Brandi-carlile-the-story/The-story",
+      "verified": false,
+      "votes_total": 7,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.675,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3872577",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8d8a3136844ba32b8ce25376346774a8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8d8a3136844ba32b8ce25376346774a8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8d8a3136844ba32b8ce25376346774a8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8d8a3136844ba32b8ce25376346774a8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8d8a3136844ba32b8ce25376346774a8",
+         "human_readable_role_for_display": "Editor",
+         "id": 3872577,
+         "iq": 6157,
+         "login": "akc76",
+         "name": "akc76",
+         "role_for_display": "editor",
+         "url": "https://genius.com/akc76",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.325,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5445856",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5975284fd923c91f4421d5ceaca93ab4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5975284fd923c91f4421d5ceaca93ab4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5975284fd923c91f4421d5ceaca93ab4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5975284fd923c91f4421d5ceaca93ab4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/92wbjg4zoa",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5445856,
+         "iq": 2033,
+         "login": "achangeofheart",
+         "name": "achangeofheart",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/achangeofheart",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0EKBV6GybPtALXUgWqWrym",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=o8pQLtHTPaI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/156698",
+    "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+    "id": 156698,
+    "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Brandi Carlile",
+    "url": "https://genius.com/artists/Brandi-carlile"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/100747",
+     "header_image_url": "https://images.genius.com/06ad6765d65c59aaa1c89814849bc4ac.490x360x1.jpg",
+     "id": 100747,
+     "image_url": "https://images.genius.com/06ad6765d65c59aaa1c89814849bc4ac.490x360x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T-Bone Burnett",
+     "url": "https://genius.com/artists/T-bone-burnett"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/1129969",
+       "full_title": "The Story by\u00a0Sara\u00a0Ramirez",
+       "header_image_thumbnail_url": "https://images.genius.com/65970630dff999a3b39a30a86a1206cc.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/65970630dff999a3b39a30a86a1206cc.450x450x1.jpg",
+       "id": 1129969,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Sara-ramirez-the-story-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/65970630dff999a3b39a30a86a1206cc.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/65970630dff999a3b39a30a86a1206cc.450x450x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 7987
+       },
+       "title": "The Story",
+       "title_with_featured": "The Story",
+       "url": "https://genius.com/Sara-ramirez-the-story-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/370570",
+        "header_image_url": "https://images.genius.com/fd66db4d99105308d9e463291dd68e23.1000x667x1.png",
+        "id": 370570,
+        "image_url": "https://images.genius.com/5eae8c631d42284140f4e6d53998319f.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sara Ramirez",
+        "url": "https://genius.com/artists/Sara-ramirez"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3087558",
+       "full_title": "The Story by\u00a0Dolly\u00a0Parton",
+       "header_image_thumbnail_url": "https://images.genius.com/a66f28aa7dea9d199df90aa5fc2c626b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a66f28aa7dea9d199df90aa5fc2c626b.1000x1000x1.jpg",
+       "id": 3087558,
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Dolly-parton-the-story-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/a66f28aa7dea9d199df90aa5fc2c626b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a66f28aa7dea9d199df90aa5fc2c626b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Story",
+       "title_with_featured": "The Story",
+       "url": "https://genius.com/Dolly-parton-the-story-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/20955",
+        "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+        "id": 20955,
+        "image_url": "https://images.genius.com/3abdaf03f5985c5a1c841f168013a47e.320x320x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dolly Parton",
+        "url": "https://genius.com/artists/Dolly-parton",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/991409",
+     "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "id": 991409,
+     "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Hanseroth",
+     "url": "https://genius.com/artists/Phil-hanseroth"
+    }
+   ],
+   "lyrics": "All of these lines across my face\nTell you the story of who I am\nSo many stories of where I've been\nAnd how I got to where I am\n\nBut these stories don't mean anything\nWhen you've got no one to tell them to\nIt's true\nI was made for you\n\nI climbed across the mountaintops\nSwam all across the ocean blue\nI crossed all the lines and I broke all the rules\nBut baby I broke them all for you\n\nOh because even when I was flat broke\nYou made me feel like a million bucks\nYou do\nI was made for you\n\nYou see the smile that's on my mouth\nIt's hiding the words that don't come out\nAnd all of my friends who think that I'm blessed\nThey don't know my head is a mess\n\nNo they don't know who I really am\nAnd they don't know what I've been through\nLike you do, and I was made for you\n\nAll of these lines across my face\nTell you the story of who I am\nSo many stories of where I've been\nAnd how I got to where I am\n\nOh but these stories don't mean anything\nWhen you've got no one to tell them to\nIt's true\nI was made for you\nOh yeah, well it's true\nThat I was made for you"
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/3408866",
+   "apple_music_id": "1310052904",
+   "apple_music_player_url": "https://genius.com/songs/3408866/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3408866' class='rg_embed_link' data-song-id='3408866'>Read <a href='https://genius.com/Brandi-carlile-hold-out-your-hand-lyrics'>\u201cHold Out Your Hand\u201d by Brandi\u00a0Carlile</a> on Genius</div> <script crossorigin src='//genius.com/songs/3408866/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Hold Out Your Hand by\u00a0Brandi\u00a0Carlile",
+   "header_image_thumbnail_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+   "id": 3408866,
+   "lyrics_owner_id": 5265591,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Brandi-carlile-hold-out-your-hand-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "2018-02-16",
+   "release_date_for_display": "February 16, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 12,
+    "iq_earners": 11,
+    "transcribers": 2,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 36082
+   },
+   "title": "Hold Out Your Hand",
+   "title_with_featured": "Hold Out Your Hand",
+   "url": "https://genius.com/Brandi-carlile-hold-out-your-hand-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/380877",
+    "cover_art_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+    "full_title": "By the Way, I Forgive You by Brandi Carlile",
+    "id": 380877,
+    "name": "By the Way, I Forgive You",
+    "url": "https://genius.com/albums/Brandi-carlile/By-the-way-i-forgive-you",
+    "artist": {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Backing Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      },
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/150568",
+       "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "id": 150568,
+       "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Shooter Jennings",
+       "url": "https://genius.com/artists/Shooter-jennings"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      },
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      }
+     ]
+    },
+    {
+     "label": "Mix",
+     "artists": [
+      {
+       "api_path": "/artists/1132911",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1132911,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gena Johnson",
+       "url": "https://genius.com/artists/Gena-johnson"
+      },
+      {
+       "api_path": "/artists/1573589",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1573589,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eddie Spear",
+       "url": "https://genius.com/artists/Eddie-spear"
+      },
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/988745",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 988745,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lyman",
+       "url": "https://genius.com/artists/Pete-lyman"
+      }
+     ]
+    },
+    {
+     "label": "Handclaps",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      },
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      },
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      },
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      },
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    },
+    {
+     "label": "French Horn",
+     "artists": [
+      {
+       "api_path": "/artists/1026116",
+       "header_image_url": "https://images.genius.com/40030cf9c4870e32f784bb3376022687.432x432x1.jpg",
+       "id": 1026116,
+       "image_url": "https://images.genius.com/40030cf9c4870e32f784bb3376022687.432x432x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "John Mark Painter",
+       "url": "https://genius.com/artists/John-mark-painter"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1132911",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1132911,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gena Johnson",
+       "url": "https://genius.com/artists/Gena-johnson"
+      },
+      {
+       "api_path": "/artists/1573589",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1573589,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eddie Spear",
+       "url": "https://genius.com/artists/Eddie-spear"
+      }
+     ]
+    },
+    {
+     "label": "Wurlitzer electric piano",
+     "artists": [
+      {
+       "api_path": "/artists/150568",
+       "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "id": 150568,
+       "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Shooter Jennings",
+       "url": "https://genius.com/artists/Shooter-jennings"
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      }
+     ]
+    },
+    {
+     "label": "Group Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      },
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      },
+      {
+       "api_path": "/artists/628540",
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/61a94faa87321a17641a677d91e12299",
+       "id": 628540,
+       "image_url": "https://images.rapgenius.com/avatars/medium/61a94faa87321a17641a677d91e12299",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Pete Souza",
+       "url": "https://genius.com/artists/Pete-souza",
+       "iq": 278
+      },
+      {
+       "api_path": "/artists/1132911",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1132911,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gena Johnson",
+       "url": "https://genius.com/artists/Gena-johnson"
+      },
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      },
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      },
+      {
+       "api_path": "/artists/366480",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 366480,
+       "image_url": "https://images.genius.com/38919ffc0e24c596f0e1d8198dc7b2f4.526x526x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Anderson East",
+       "url": "https://genius.com/artists/Anderson-east"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 498964,
+    "annotator_login": "HolUp",
+    "api_path": "/referents/13412566",
+    "classification": "needs_exegesis",
+    "fragment": "Hold Out Your Hand",
+    "id": 13412566,
+    "is_description": true,
+    "path": "/13412566/Brandi-carlile-hold-out-your-hand/Hold-out-your-hand",
+    "range": {
+     "content": "Hold Out Your Hand"
+    },
+    "song_id": 3408866,
+    "url": "https://genius.com/13412566/Brandi-carlile-hold-out-your-hand/Hold-out-your-hand",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3408866",
+     "client_timestamps": {
+      "updated_by_human_at": 1572984773,
+      "lyrics_updated_at": 1541780019
+     },
+     "context": "Brandi Carlile",
+     "id": 3408866,
+     "image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+     "link_title": "Hold Out Your Hand by\u00a0Brandi\u00a0Carlile",
+     "title": "Hold Out Your Hand",
+     "type": "Song",
+     "url": "https://genius.com/Brandi-carlile-hold-out-your-hand-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13412566",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13412566,
+      "pinned": false,
+      "share_url": "https://genius.com/13412566",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13412566/Brandi-carlile-hold-out-your-hand/Hold-out-your-hand",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/498964",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/15c6d9d2a6be3c6b34515159573b2abc",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/15c6d9d2a6be3c6b34515159573b2abc",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/15c6d9d2a6be3c6b34515159573b2abc",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/15c6d9d2a6be3c6b34515159573b2abc",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/15c6d9d2a6be3c6b34515159573b2abc",
+         "human_readable_role_for_display": "Editor",
+         "id": 498964,
+         "iq": 556846,
+         "login": "HolUp",
+         "name": "HolUp",
+         "role_for_display": "editor",
+         "url": "https://genius.com/HolUp",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=c4iqNkrQJFQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/156698",
+    "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+    "id": 156698,
+    "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Brandi Carlile",
+    "url": "https://genius.com/artists/Brandi-carlile"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/150568",
+     "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+     "id": 150568,
+     "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shooter Jennings",
+     "url": "https://genius.com/artists/Shooter-jennings"
+    },
+    {
+     "api_path": "/artists/534034",
+     "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+     "id": 534034,
+     "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Cobb",
+     "url": "https://genius.com/artists/Dave-cobb"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/681557",
+     "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+     "id": 681557,
+     "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Hanseroth",
+     "url": "https://genius.com/artists/Tim-hanseroth"
+    },
+    {
+     "api_path": "/artists/991409",
+     "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "id": 991409,
+     "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Hanseroth",
+     "url": "https://genius.com/artists/Phil-hanseroth"
+    },
+    {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   ],
+   "lyrics": "[Verse 1]\nI run a lot of miles of life and crime\nAnd mountain climbs and quittin' times\nPacking that load of lyin' rhymes\nAnd tired jokes and wooden dimes\nI've been everybody's friend, everybody's friend\n\n[Verse 2]\nI could lose my house, I could steal a car\nI could serve two masters, living hard\nLiving like a dog in a cage in a yard\nWith a fist full of cold hard cash that I can't let go\nThe devil can't have my soul, the devil can't get your soul\nThe devil can't get your soul\n\n[Chorus]\nHold out your hand\nTake hold of mine and then\nRound and round we go\nDon't you wanna dance\nI'm a dying man\nFrom the moment we began\nHold out your hand\nBa da da, ba da da, ba da da\nBa da da, ba da da, ba da da\nBa da da, ba da da, ba da da\n\n[Verse 3]\nWhen the man comes around and the trumpet sounds\nAnd his number calls and the moment he falls\nIn the haunted halls of man he will understand\nHe will comprehend, he will not pretend\nHe will not pretend\n\n[Verse 4]\nWhen the rain don't fall and the river don't run\nAnd the wind takes orders from the blazing sun\nThe devil don't break for the fiery snake\nAnd you've had about as goddamn much as you can take\nThe devil don't take a break, the devil don't take a break\nThe devil don't take no break\n\n[Chorus]\nHold out your hand\nTake hold of mine and then\nRound and round we go\nDon't you wanna dance\nI'm a dying man\nFrom the moment we began\nHold out your hand\nBa da da, ba da da, ba da da\nBa da da, ba da da, ba da da\nBa da da, ba da da, ba da da\n\n[Bridge]\nWell he came to my door to sell me the fear\nWith some cameras and bullets and tension and\nHere is a license for killing your own native son\nFor a careless mistake and a fake plastic gun?\n(Come on!)\nDeliver your brother from violence and greed\nFor the mountains, lay down for your faith like a seed\nA morning is coming of silver and light\nThere will be color and language and nobody wanting to fight\nWhat a glorious sight!\nWhat a glorious sight!\nBa da da, ba da da, ba da da\nBa da da, ba da da, ba da da\nBa da da, ba da da, ba da da\n\n[Chorus]\nHold out your hand (ba da da, ba da da, ba da da)\nTake hold of mine and then  (ba da da, ba da da, ba da da)\nRound and round we go  (ba da da, ba da da, ba da da)\nDon't you wanna dance  (ba da da, ba da da, ba da da)\nI'm a dying man  (ba da da, ba da da, ba da da)\nFrom the moment we began (ba da da, ba da da, ba da da)\nHold out your hand  (ba da da, ba da da, ba da da)\nBa da da, ba da da, ba da da\nBa da da, ba da da, ba da da\nBa da da, ba da da, ba da da"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/3408865",
+   "apple_music_id": "1310052895",
+   "apple_music_player_url": "https://genius.com/songs/3408865/apple_music_player",
+   "description": {
+    "plain": "Brandi Carlile debuted \u201cEvery Time I Hear That Song\u201d in a KCRW session on January 4, 2018, ahead of her album release.\n\nThe title of the album By the Way, I Forgive You refers to a line in the chorus, which sees Brandi reminiscing about a past lover that broke her heart. Despite everything that happened between them, she chooses to forgive."
+   },
+   "embed_content": "<div id='rg_embed_link_3408865' class='rg_embed_link' data-song-id='3408865'>Read <a href='https://genius.com/Brandi-carlile-every-time-i-hear-that-song-lyrics'>\u201cEvery Time I Hear That Song\u201d by Brandi\u00a0Carlile</a> on Genius</div> <script crossorigin src='//genius.com/songs/3408865/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Every Time I Hear That Song by\u00a0Brandi\u00a0Carlile",
+   "header_image_thumbnail_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+   "id": 3408865,
+   "lyrics_owner_id": 5265591,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Brandi-carlile-every-time-i-hear-that-song-lyrics",
+   "pyongs_count": 2,
+   "recording_location": null,
+   "release_date": "2018-02-16",
+   "release_date_for_display": "February 16, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 13,
+    "iq_earners": 13,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 34822
+   },
+   "title": "Every Time I Hear That Song",
+   "title_with_featured": "Every Time I Hear That Song",
+   "url": "https://genius.com/Brandi-carlile-every-time-i-hear-that-song-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/380877",
+    "cover_art_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+    "full_title": "By the Way, I Forgive You by Brandi Carlile",
+    "id": 380877,
+    "name": "By the Way, I Forgive You",
+    "url": "https://genius.com/albums/Brandi-carlile/By-the-way-i-forgive-you",
+    "artist": {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1573589",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1573589,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eddie Spear",
+       "url": "https://genius.com/artists/Eddie-spear"
+      },
+      {
+       "api_path": "/artists/1132911",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1132911,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gena Johnson",
+       "url": "https://genius.com/artists/Gena-johnson"
+      }
+     ]
+    },
+    {
+     "label": "French Horn",
+     "artists": [
+      {
+       "api_path": "/artists/1026116",
+       "header_image_url": "https://images.genius.com/40030cf9c4870e32f784bb3376022687.432x432x1.jpg",
+       "id": 1026116,
+       "image_url": "https://images.genius.com/40030cf9c4870e32f784bb3376022687.432x432x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "John Mark Painter",
+       "url": "https://genius.com/artists/John-mark-painter"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      },
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/150568",
+       "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "id": 150568,
+       "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Shooter Jennings",
+       "url": "https://genius.com/artists/Shooter-jennings"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/988745",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 988745,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lyman",
+       "url": "https://genius.com/artists/Pete-lyman"
+      }
+     ]
+    },
+    {
+     "label": "Mix",
+     "artists": [
+      {
+       "api_path": "/artists/1573589",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1573589,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eddie Spear",
+       "url": "https://genius.com/artists/Eddie-spear"
+      },
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      },
+      {
+       "api_path": "/artists/1132911",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1132911,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gena Johnson",
+       "url": "https://genius.com/artists/Gena-johnson"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/150568",
+       "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "id": 150568,
+       "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Shooter Jennings",
+       "url": "https://genius.com/artists/Shooter-jennings"
+      }
+     ]
+    },
+    {
+     "label": "Backing Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      },
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5265591,
+    "annotator_login": "bergamotperfume",
+    "api_path": "/referents/13412565",
+    "classification": "accepted",
+    "fragment": "Every Time I Hear That Song",
+    "id": 13412565,
+    "is_description": true,
+    "path": "/13412565/Brandi-carlile-every-time-i-hear-that-song/Every-time-i-hear-that-song",
+    "range": {
+     "content": "Every Time I Hear That Song"
+    },
+    "song_id": 3408865,
+    "url": "https://genius.com/13412565/Brandi-carlile-every-time-i-hear-that-song/Every-time-i-hear-that-song",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3408865",
+     "client_timestamps": {
+      "updated_by_human_at": 1572984255,
+      "lyrics_updated_at": 1519015543
+     },
+     "context": "Brandi Carlile",
+     "id": 3408865,
+     "image_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+     "link_title": "Every Time I Hear That Song by\u00a0Brandi\u00a0Carlile",
+     "title": "Every Time I Hear That Song",
+     "type": "Song",
+     "url": "https://genius.com/Brandi-carlile-every-time-i-hear-that-song-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13412565",
+      "body": {
+       "plain": "Brandi Carlile debuted \u201cEvery Time I Hear That Song\u201d in a KCRW session on January 4, 2018, ahead of her album release.\n\nThe title of the album By the Way, I Forgive You refers to a line in the chorus, which sees Brandi reminiscing about a past lover that broke her heart. Despite everything that happened between them, she chooses to forgive."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 13412565,
+      "pinned": false,
+      "share_url": "https://genius.com/13412565",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/13412565/Brandi-carlile-every-time-i-hear-that-song/Every-time-i-hear-that-song",
+      "verified": false,
+      "votes_total": 5,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5265591",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5265591,
+         "iq": 16321,
+         "login": "bergamotperfume",
+         "name": "bergamotperfume",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/bergamotperfume",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=XlCSW2ICJjQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/156698",
+    "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+    "id": 156698,
+    "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Brandi Carlile",
+    "url": "https://genius.com/artists/Brandi-carlile"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/150568",
+     "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+     "id": 150568,
+     "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shooter Jennings",
+     "url": "https://genius.com/artists/Shooter-jennings"
+    },
+    {
+     "api_path": "/artists/534034",
+     "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+     "id": 534034,
+     "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Cobb",
+     "url": "https://genius.com/artists/Dave-cobb"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/681557",
+     "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+     "id": 681557,
+     "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Hanseroth",
+     "url": "https://genius.com/artists/Tim-hanseroth"
+    },
+    {
+     "api_path": "/artists/991409",
+     "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "id": 991409,
+     "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Hanseroth",
+     "url": "https://genius.com/artists/Phil-hanseroth"
+    },
+    {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   ],
+   "lyrics": "[Verse 1]\nA love song was playing on the radio\nIt made me kind of sad because it made me think of you\nAnd I wonder how you're doing but I wish I didn't care\nBecause I gave you all I had and got the worst of you\n\n[Chorus]\nBy the way, I forgive you\nAfter all, maybe I should thank you\nFor giving me what I've found\n'Cause without you around\nI've been doing just fine\nExcept for any time I hear that song (ooh ooh)\n\n[Verse 2]\nDidn't it break your heart when you watched my smile fading\nDid it ever cross your mind that one day the tables would be turned\nThey told me the best revenge would be a life well lived\nAnd the strongest one that holds would be the hardest one to earn\n\n[Chorus]\nBy the way, I forgive you\nAfter all, maybe I should thank you\nFor giving me what I've found\n'Cause without you around\nI've been doing just fine\nExcept for any time I hear that song (ooh ooh)\nOh, any time I hear that song (ooh ooh)\n\n[Verse 3]\nWhen I woke up in the morning I was choking on some words\nThere were things unsaid between us, there were things you never told\nNow that's twice you broke my heart now, the first was way back when\nAnd to know you're still unhappy only makes it break again\n\n[Chorus]\nBy the way, I forgive you\nAfter all, maybe I should thank you\nFor giving me what I've found\n'Cause without you around\nI've been doing just fine\n\nBy the way, I forgive you\nI never will, never will forget you\nFor giving me what I've found\n'Cause without you around\nI've been doing just fine\nExcept for any time I hear that song (ooh ooh)\nOh, any time I hear that song (ooh ooh)\nOh, any time I hear that song (ooh ooh)\nOoh, ooh, hmm"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/3408874",
+   "apple_music_id": "1310053573",
+   "apple_music_player_url": "https://genius.com/songs/3408874/apple_music_player",
+   "description": {
+    "plain": "The song is about tensions in a same sex marriage.  The context is important in that the legal right to marry has been hard-won, so it is all the more important not to throw the relationship away.\n\nBut the message may apply to all relationships; feelings of love aren\u2019t easily extinguished.\n\nThis song is meaningful to both singers. Brandi Carlile is a lesbian with a wife and children, and Sam Smith is non-binary.\n\n (+5 IQ)"
+   },
+   "embed_content": "<div id='rg_embed_link_3408874' class='rg_embed_link' data-song-id='3408874'>Read <a href='https://genius.com/Brandi-carlile-party-of-one-lyrics'>\u201cParty Of One\u201d by Brandi\u00a0Carlile</a> on Genius</div> <script crossorigin src='//genius.com/songs/3408874/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Party Of One by\u00a0Brandi\u00a0Carlile (Ft.\u00a0Sam\u00a0Smith)",
+   "header_image_thumbnail_url": "https://images.genius.com/ec906319732d0cb153dbcfdb1e761fca.300x200x1.jpg",
+   "header_image_url": "https://images.genius.com/ec906319732d0cb153dbcfdb1e761fca.1000x667x1.jpg",
+   "id": 3408874,
+   "lyrics_owner_id": 5265591,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Brandi-carlile-party-of-one-lyrics",
+   "pyongs_count": 3,
+   "recording_location": null,
+   "release_date": "2018-02-16",
+   "release_date_for_display": "February 16, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ec906319732d0cb153dbcfdb1e761fca.300x200x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ec906319732d0cb153dbcfdb1e761fca.1000x667x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 19,
+    "iq_earners": 18,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 33860
+   },
+   "title": "Party Of One",
+   "title_with_featured": "Party Of One (Ft.\u00a0Sam\u00a0Smith)",
+   "url": "https://genius.com/Brandi-carlile-party-of-one-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/380877",
+    "cover_art_url": "https://images.genius.com/9d96443a22f655c102b3c68646174967.600x600x1.jpg",
+    "full_title": "By the Way, I Forgive You by Brandi Carlile",
+    "id": 380877,
+    "name": "By the Way, I Forgive You",
+    "url": "https://genius.com/albums/Brandi-carlile/By-the-way-i-forgive-you",
+    "artist": {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Backing Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/681557",
+       "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "id": 681557,
+       "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Hanseroth",
+       "url": "https://genius.com/artists/Tim-hanseroth"
+      },
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/156698",
+       "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+       "id": 156698,
+       "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandi Carlile",
+       "url": "https://genius.com/artists/Brandi-carlile"
+      }
+     ]
+    },
+    {
+     "label": "Mix",
+     "artists": [
+      {
+       "api_path": "/artists/1132911",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1132911,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gena Johnson",
+       "url": "https://genius.com/artists/Gena-johnson"
+      },
+      {
+       "api_path": "/artists/1573589",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1573589,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eddie Spear",
+       "url": "https://genius.com/artists/Eddie-spear"
+      },
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/988745",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 988745,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lyman",
+       "url": "https://genius.com/artists/Pete-lyman"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/534034",
+       "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+       "id": 534034,
+       "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cobb",
+       "url": "https://genius.com/artists/Dave-cobb"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1132911",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1132911,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gena Johnson",
+       "url": "https://genius.com/artists/Gena-johnson"
+      },
+      {
+       "api_path": "/artists/1573589",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1573589,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eddie Spear",
+       "url": "https://genius.com/artists/Eddie-spear"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1002610",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "id": 1002610,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1586984574",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Powell",
+       "url": "https://genius.com/artists/Chris-powell"
+      }
+     ]
+    },
+    {
+     "label": "Conductor",
+     "artists": [
+      {
+       "api_path": "/artists/651015",
+       "header_image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+       "id": 651015,
+       "image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paul Buckmaster",
+       "url": "https://genius.com/artists/Paul-buckmaster"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/991409",
+       "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "id": 991409,
+       "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Hanseroth",
+       "url": "https://genius.com/artists/Phil-hanseroth"
+      }
+     ]
+    },
+    {
+     "label": "String Arrangement",
+     "artists": [
+      {
+       "api_path": "/artists/651015",
+       "header_image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+       "id": 651015,
+       "image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paul Buckmaster",
+       "url": "https://genius.com/artists/Paul-buckmaster"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2812894,
+    "annotator_login": "jillybirks",
+    "api_path": "/referents/13412575",
+    "classification": "accepted",
+    "fragment": "Party Of One",
+    "id": 13412575,
+    "is_description": true,
+    "path": "/13412575/Brandi-carlile-party-of-one/Party-of-one",
+    "range": {
+     "content": "Party Of One"
+    },
+    "song_id": 3408874,
+    "url": "https://genius.com/13412575/Brandi-carlile-party-of-one/Party-of-one",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3408874",
+     "client_timestamps": {
+      "updated_by_human_at": 1586019919,
+      "lyrics_updated_at": 1564922437
+     },
+     "context": "Brandi Carlile",
+     "id": 3408874,
+     "image_url": "https://images.genius.com/ec906319732d0cb153dbcfdb1e761fca.1000x667x1.jpg",
+     "link_title": "Party Of One by\u00a0Brandi\u00a0Carlile (Ft.\u00a0Sam\u00a0Smith)",
+     "title": "Party Of One",
+     "type": "Song",
+     "url": "https://genius.com/Brandi-carlile-party-of-one-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13412575",
+      "body": {
+       "plain": "The song is about tensions in a same sex marriage.  The context is important in that the legal right to marry has been hard-won, so it is all the more important not to throw the relationship away.\n\nBut the message may apply to all relationships; feelings of love aren\u2019t easily extinguished.\n\nThis song is meaningful to both singers. Brandi Carlile is a lesbian with a wife and children, and Sam Smith is non-binary.\n\n (+5 IQ)"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 13412575,
+      "pinned": false,
+      "share_url": "https://genius.com/13412575",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/13412575/Brandi-carlile-party-of-one/Party-of-one",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2812894",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/7871004d193ca15f88de391958037ff5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/7871004d193ca15f88de391958037ff5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/7871004d193ca15f88de391958037ff5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/7871004d193ca15f88de391958037ff5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/7871004d193ca15f88de391958037ff5",
+         "human_readable_role_for_display": "Editor",
+         "id": 2812894,
+         "iq": 211200,
+         "login": "jillybirks",
+         "name": "jillybirks",
+         "role_for_display": "editor",
+         "url": "https://genius.com/jillybirks",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/43383",
+     "header_image_url": "https://images.genius.com/541b4856051d5c2de6ad6ce41feeb53a.790x395x1.jpg",
+     "id": 43383,
+     "image_url": "https://images.genius.com/f837d959feef428ac494d6a9cd8c96a5.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam Smith",
+     "url": "https://genius.com/artists/Sam-smith"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=FW5xe1FpDfQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/156698",
+    "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+    "id": 156698,
+    "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Brandi Carlile",
+    "url": "https://genius.com/artists/Brandi-carlile"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/150568",
+     "header_image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+     "id": 150568,
+     "image_url": "https://images.genius.com/8d82b11f5d556f3fd7c6b44ed6688659.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shooter Jennings",
+     "url": "https://genius.com/artists/Shooter-jennings"
+    },
+    {
+     "api_path": "/artists/534034",
+     "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+     "id": 534034,
+     "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Cobb",
+     "url": "https://genius.com/artists/Dave-cobb"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": [
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/4028603",
+       "full_title": "Party of One ft. Sam Smith by\u00a0Brandi\u00a0Carlile (Ft.\u00a0Sam\u00a0Smith)",
+       "header_image_thumbnail_url": "https://images.genius.com/cff6e93d39bc0df6abf5aa29b0cd10d9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cff6e93d39bc0df6abf5aa29b0cd10d9.500x500x1.jpg",
+       "id": 4028603,
+       "lyrics_owner_id": 5637607,
+       "lyrics_state": "complete",
+       "path": "/Brandi-carlile-party-of-one-ft-sam-smith-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/cff6e93d39bc0df6abf5aa29b0cd10d9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cff6e93d39bc0df6abf5aa29b0cd10d9.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 12594
+       },
+       "title": "Party of One ft. Sam Smith",
+       "title_with_featured": "Party of One ft. Sam Smith (Ft.\u00a0Sam\u00a0Smith)",
+       "url": "https://genius.com/Brandi-carlile-party-of-one-ft-sam-smith-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/156698",
+        "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+        "id": 156698,
+        "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Brandi Carlile",
+        "url": "https://genius.com/artists/Brandi-carlile"
+       }
+      }
+     ]
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/681557",
+     "header_image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+     "id": 681557,
+     "image_url": "https://images.genius.com/3b4faf976b865441096701266d3a8490.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Hanseroth",
+     "url": "https://genius.com/artists/Tim-hanseroth"
+    },
+    {
+     "api_path": "/artists/991409",
+     "header_image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "id": 991409,
+     "image_url": "https://images.genius.com/ab9929c2698a6ca5a0217121e87e07f2.402x402x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Hanseroth",
+     "url": "https://genius.com/artists/Phil-hanseroth"
+    },
+    {
+     "api_path": "/artists/156698",
+     "header_image_url": "https://images.genius.com/2f41f006f205c6a23b54dd639f4b573e.1000x667x1.jpg",
+     "id": 156698,
+     "image_url": "https://images.genius.com/3d3d41954f46279f5d7ae0839e8430a3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandi Carlile",
+     "url": "https://genius.com/artists/Brandi-carlile"
+    }
+   ],
+   "lyrics": "Waiter send this to the table, the party of one\nThe only other lonely soul in this place\nAnd so you're finishing up your coffee\nBut then where're you gonna run?\nWhere'd you get that look on your face?\n\nYou should always let the sun go down on your anger\nLet it burn you to sleep\nBring it closer to danger\nTo surrender and retreat\nSing your sad soul to sleep\n\nI loved you the first time I saw you\nAnd you know I love you still\nBut I am tired\nAnd I am yours\n\nDon't even think about your freedom or taking that flight\nOr going back upon your promise after fighting for the right\nBecause your eggshells and your \"I\" statements and your weaponized words\nAre paper tigers now\n\nOh your constant overthinking and your secretive drinking\nAre making you more and more alone\nAnd girl, you can slam the door behind you, it ain't never gonna close\nBecause when you're home, you're already home\n\nI am tired\nI am tired\nI don't wanna go home anymore\nI don't wanna throw stones anymore\nI don't wanna take part in the war\n\nI loved you the first time I saw you\nAnd you know I love you still\nI loved you the first time I saw you\nAnd you know I love you still\n\nI don't wanna be right anymore\nLord, I don't wanna fight anymore\nI'm not taking your side anymore\nI am tired\nI am not my own\nAnd I am leaving\nOh, I am tired\nBut I'm coming home\n\n'Cause I am yours, I am yours, I am yours, I am yours, I am yours\nI am yours, I am yours, I am yours, I am yours, I am yours"
+  }
+ ]
+}
